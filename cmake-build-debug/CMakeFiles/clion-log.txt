@@ -1,0 +1,10 @@
+"E:\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Projects\C-rocketBeans-work5
+-- The C compiler identification is GNU 4.8.3
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: E:/WinGW2/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Projects/C-rocketBeans-work5/cmake-build-debug

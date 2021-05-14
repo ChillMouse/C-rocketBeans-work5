@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Projects/C-rocketBeans-work5/event5.c
+phoenixLib.h
+E:/Projects/C-rocketBeans-work5/phoenixLib.h
+malloc.h
+-
+
+E:/Projects/C-rocketBeans-work5/phoenixLib.h
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+windows.h
+-
+
